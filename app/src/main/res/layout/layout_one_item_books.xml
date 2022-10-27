@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:paddingStart="30dp"
+    >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_item"
+        android:layout_width="185dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/custom_item_content_books"
+        >
+
+        <ImageView
+            android:id="@+id/ic_heart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="13dp"
+            android:src="@drawable/ic_heart"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <LinearLayout
+            android:id="@+id/layout_star"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/custom_item_content_books_2"
+            android:elevation="3dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="4dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ic_heart">
+
+            <ImageView
+                android:id="@+id/img_star"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/ic_star" />
+
+            <TextView
+                android:id="@+id/text_star"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="5.0"
+                android:textColor="@color/black"
+                android:textSize="13dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/title_book"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="5dp"
+            android:fontFamily="@font/mali"
+            android:text="@string/title_book3"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/layout_star"
+            app:layout_constraintVertical_bias="0.1" />
+
+        <TextView
+            android:id="@+id/author_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:fontFamily="@font/caveat"
+            android:text="@string/author_book1"
+            android:textColor="#8A8A8A"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/title_book" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/author_name">
+
+            <TextView
+                android:id="@+id/tv_details"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.45"
+                android:paddingVertical="2dp"
+                android:fontFamily="@font/patrickhand"
+                android:gravity="center"
+                android:text="@string/title_function_item"
+                android:textColor="@color/black"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/tv_read"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.55"
+                android:paddingVertical="2dp"
+                android:background="@drawable/custom_text_view_books"
+                android:fontFamily="@font/patrickhand"
+                android:gravity="center"
+                android:text="@string/title_function_item_2"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/item_book"
+        android:layout_width="115dp"
+        android:layout_height="120dp"
+        android:layout_alignStart="@+id/layout_item"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerInside"
+        android:src="@drawable/book_3" />
+
+</RelativeLayout>
+
+

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/background_color_change_color_items_1.xml" value="0.263" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/background_color_edit_text_note_6.xml" value="0.228" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/background_color_long_click_items_2.xml" value="0.263" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_background_text_language.xml" value="0.152" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_button_notes.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_button_notes_1.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_button_notes_2.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_circle_view.xml" value="0.1215" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_cricle_view.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_input_layout_notes.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_pointer_color_2.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_search_view_2.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_solid_one_items_notes_2.xml" value="0.263" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_solid_one_items_notes_3.xml" value="0.263" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_solid_one_items_notes_4.xml" value="0.263" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_solid_one_items_notes_5.xml" value="0.263" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_solid_one_items_notes_6.xml" value="0.263" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/custom_success_text.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/ic_color_2.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/ic_color_3.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable-v24/ic_color_4.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/avd_heart_empty.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/avd_heart_fill.xml" value="0.1455" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_color_1.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_color_2.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_color_3.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_color_edit_text_note_1.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_color_edit_text_note_2.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_color_edit_text_note_3.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_color_edit_text_note_4.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_color_edit_text_note_5.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_color_long_click_items.xml" value="0.263" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/background_tab_layout.xml" value="0.187" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/border_shadow_seek_bar.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_background_details_book_function.xml" value="0.208" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_background_five_star.xml" value="0.151" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_button_hello_screen.xml" value="0.1515" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_button_icon_sign_up.xml" value="0.152" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_button_login.xml" value="0.152" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_button_notes.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_button_notes_2.xml" value="0.187" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_button_notes_3.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_button_notes_4.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_button_notes_5.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_err_text.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_icon_sign_in.xml" value="0.152" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_img_button.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_img_button_2.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_input_login.xml" value="0.152" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_item_content_books.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_item_content_books_2.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_layout_appbar.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_pointer_color.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_search_view.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_solid_one_items_notes_1.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_tab_layout.xml" value="0.187" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_text_view_books.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_text_view_content_details_book.xml" value="0.2565" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_thumb_seek_bar.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/custom_view_show_hide_details_book.xml" value="0.2565" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_add.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_add_alert.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_archive.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_arrow_back.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_back_arrow.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_baseline_close.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_bookmark.xml" value="0.2565" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_camera.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_camera_2.xml" value="0.149" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_change_layout.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_check.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_check_2.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_color_1.xml" value="0.1535" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_color_5.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_color_6.xml" value="0.263" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_color_lens.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_dot.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_dote.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_drag.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_facebook.xml" value="0.152" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_google_plus.xml" value="0.152" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_heart.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_heart_2.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_hide_search_view.xml" value="0.2375" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_hide_source.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_home.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_menu.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_pin.xml" value="0.1545" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_setting.xml" value="0.1475" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_share_1.xml" value="0.199" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/ic_twitter.xml" value="0.152" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/seekbar_progress.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/drawable/seekbar_style.xml" value="0.15" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/font/abel.xml" value="0.23697916666666666" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/font/arvo.xml" value="0.23697916666666666" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/font/bree_serif.xml" value="0.23697916666666666" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout-v28/layout_one_item_books.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/activity_drawing_board.xml" value="0.2" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/activity_hello_full_screen.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/activity_notes.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/custom_five_star_dialog.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/custom_layout_chooser_color_notes.xml" value="0.31145833333333334" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/custom_layout_upload_image.xml" value="0.20677083333333332" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/custom_snackbar_error.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/custom_success_text.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/dialog_chooser_color.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/dialog_details_book.xml" value="0.33" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/fragment_layout_book.xml" value="0.19114583333333332" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/fragment_show_drawing.xml" value="0.3265625" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/fragment_show_notes.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/include_layout_appbar_details_book.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/include_layout_details_content_book.xml" value="0.23614775725593667" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/include_layout_details_content_book_1.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/include_layout_details_content_book_2.xml" value="0.281986531986532" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_bottom_activity_notes.xml" value="0.33" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_bottom_drawer_board.xml" value="0.18645833333333334" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_bottom_drawing_board.xml" value="0.33" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_full_image.xml" value="0.21" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_function_item_notes.xml" value="0.25" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_one_item_books.xml" value="0.33" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_one_item_chooser_color.xml" value="0.33" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_one_item_note.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_one_item_note_girl.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_one_item_note_grid.xml" value="0.26458333333333334" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_one_item_note_linar.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/layout/layout_one_item_note_linear.xml" value="0.33" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/menu/menu_bottom_nav.xml" value="0.20677083333333332" />
+        <entry key="..\:/Android Studio/ToDoListApp/ToDoList/app/src/main/res/menu/menu_language.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NotesActivity"
+    android:theme="@style/Theme.MaterialComponents.Light.NoActionBar">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tool_bar_note"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_gravity="top"
+        android:elevation="4dp"
+        android:background="@color/white"
+        >
+        <ImageView
+            android:id="@+id/ic_back"
+            style="@style/style_img_tool_bar_notes"
+            android:layout_gravity="start"
+            android:src="@drawable/ic_back_arrow"/>
+        <ImageView
+            android:id="@+id/ic_setting_note"
+            style="@style/style_img_tool_bar_notes"
+            android:src="@drawable/ic_setting"/>
+        <ImageView
+            android:id="@+id/ic_notification"
+            style="@style/style_img_tool_bar_notes"
+            android:src="@drawable/ic_add_alert"/>
+        <ImageView
+            android:id="@+id/ic_pin"
+            style="@style/style_img_tool_bar_notes"
+            android:src="@drawable/ic_pin"/>
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:id="@+id/layout_container_note"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+      >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            android:fillViewport="true"
+            tools:ignore="ScrollViewCount">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/title_note"
+                    style="@style/style_text_title_notes"
+                    android:text="@string/title_note_2"
+
+                    />
+                <EditText
+                    android:id="@+id/ed_title"
+                    style="@style/style_text_input_edit_text_title_notes"
+                  />
+
+               <EditText
+                   android:id="@+id/ed_content"
+                   style="@style/style_text_input_edit_text_content_notes"
+                />
+
+                <Button
+                    android:id="@+id/btn_note"
+                    style="@style/style_button_add_notes"
+                    android:text="@string/title_button_note"
+                   />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <include
+        layout="@layout/layout_bottom_activity_notes"
+        />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

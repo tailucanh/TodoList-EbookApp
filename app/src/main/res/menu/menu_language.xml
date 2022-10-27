@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/lag_vn"
+        android:title="Vietnamese"
+        android:icon="@drawable/vietnam"/>
+    <item
+        android:id="@+id/lag_en"
+        android:title="Engish"
+        android:icon="@drawable/uk"/>
+</menu>

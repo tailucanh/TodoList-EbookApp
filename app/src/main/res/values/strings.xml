@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="button_start">Start</string>
+    <string name="title_login">LOGIN</string>
+    <string name="title_signup">SIGN UP</string>
+    <string name="hint_input_account_1">My account</string>
+    <string name="hint_input_account_2">New account</string>
+    <string name="hint_input_pass">Password</string>
+    <string name="login_content1">Don\'t have an Account ?\ </string>
+    <string name="login_content2">Sign up\ </string>
+    <string name="signup_content1">Already have an Account ?\ </string>
+    <string name="signup_content2">Sign in\ </string>
+    <string name="signup_content3">OR</string>
+
+
+    <string name="error_account_name">Please enter your account name.</string>
+    <string name="error_pass">Please enter password.</string>
+    <string name="error_account_name_2">Wrong account name! Please re-enter.</string>
+    <string name="error_pass_2">Wrong password! Please re-enter</string>
+
+    <string name="successful_text">Login successfully!</string>
+    <string name="successful_text_2">Sign up successfully!</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_content_book">What are you reading <b>today ?</b></string>
+
+
+    <string name="title_book1" translatable="false">Crushing &amp; Influence </string>
+    <string name="title_book2" translatable="false">Life changes when we change</string>
+    <string name="title_book3" translatable="false">How to win Friends</string>
+    <string name="author_book1" translatable="false">Gary Venchuk\ </string>
+    <string name="author_book2" translatable="false">Andrew Matthews\ </string>
+    <string name="author_book3" translatable="false">Dale Carnegie\  </string>
+
+    <string name="title_function_item">Details\ </string>
+    <string name="title_function_item_2">Read\ </string>
+
+    <string name="text_five_star">Rate Now!</string>
+    <string name="text_five_star2">Cancel\ </string>
+    <string name="text_five_star3">Agree\ </string>
+
+
+    <string name="text_upload_img">Add your picture!</string>
+    <string name="text_upload_img2">To take a photo</string>
+    <string name="text_upload_img3">Choose a photo</string>
+
+    <string name="title_dialog_color">Color</string>
+    <string name="title_dialog_color_2">Background</string>
+
+    <string name="title_note">Title</string>
+    <string name="title_note_2">Add your notes here</string>
+    <string name="content_note">Content</string>
+    <string name="notification_title_note">Please enter title!</string>
+    <string name="notification_content_note">Please enter content!</string>
+    <string name="notification_confirm">Confirm!</string>
+    <string name="notification_confirm_2">Confirm save note.</string>
+
+    <string name="title_button_note">Save note</string>
+    <string name="text_time_present">Edited at\ </string>
+
+    <string name="text_pressed_app">Tap again to exit\ </string>
+
+    <string name="text_title_drawing_board">Drawing board\ </string>
+    <string name="text_title_book_details" translatable="false">How to Win Friends \n &amp; Influence People\ </string>
+    <string name="text_author_book_details" translatable="false">By: Dale Carnegie\ </string>
+    <string name="text_title_book_details_2" translatable="false">Đời thay đổi khi\nchúng ta thay đổi </string>
+    <string name="text_author_book_details_2" translatable="false">By: Andrew Matthew\ </string>
+
+    <string name="text_title_details_1">Book Summary\ </string>
+    <string name="text_title_details_2">Book Description\ </string>
+    <string name="text_toast">Successfully\ </string>
+    <string name="text_toast_2">Save successfully\ </string>
+    <string name="text_toast_3">Save failed\ </string>
+    <string name="text_tab">\ Notes\ </string>
+    <string name="text_tab_2">\ Drawing\ </string>
+    <string name="text_function_1">Edit note</string>
+    <string name="text_function_2">Delete note</string>
+    <string name="text_function_3">Change note color</string>
+
+    <string name="text_function_delete_1">Delete note?</string>
+    <string name="text_function_delete_2">Are you sure to delete ?</string>
+    <string name="text_function_delete_3">Deleted !</string>
+    <string name="text_function_delete_4">Can not delete !</string>
+    <string name="text_function_delete_5">Cancelled !</string>
+
+    <string name="title_tool_bar_details">Details book\ </string>
+    <string name="text_show">See more\ </string>
+    <string name="text_hide">Collapse\ </string>
+
+    <string name="content_details_book1">~Techniques in Handling People~</string>
+    <string name="content_details_book1_1">1. Don’t criticize, condemn or complain.\n2. Give honest and sincere appreciation.\n3. Arouse in the other person an eager want.</string>
+
+
+    <string name="content_details_book1_2">~Six ways to Make People Like You~</string>
+    <string name="content_details_book1_3">1. Become genuinely interested in other people.\n2. Smile.\n3. Remember that a person’s name is to that person the sweetest and most important sound in any language.\n4. Be a good listener. Encourage others to talk about themselves.\n5. Talk in terms of the other person’s interests.\n6. Be a good listener. Encourage others to talk about themselves.</string>
+
+    <string name="content_details_book1_4">~Win People to Your Way of Thinking~</string>
+    <string name="content_details_book1_5">1. The only way to get the best of an argument is to avoid it.\n2. Show respect for the other person’s opinions. Never say, “You’re wrong.”\n3. If you are wrong, admit it quickly and emphatically.\n4. Begin in a friendly way.\n5. Get the other person saying “yes, yes” immediately.\n6. Let the other person do a great deal of the talking.\n7. Let the other person feel that the idea is his or hers.\n8. Try honestly to see things from the other person’s point of view.\n9. Be sympathetic with the other person’s ideas and desires.\n10. Appeal to the nobler motives.\n11. Dramatize your ideas.\n12. Throw down a challenge.</string>
+
+
+    <string name="content_details_book1_6">~Be a Leader: How to Change People Without Giving Offense or Arousing Resentment~</string>
+    <string name="content_details_book1_7">1.Begin with praise and honest appreciation.\n2. Call attention to people’s mistakes indirectly.\n3. Talk about your own mistakes before criticizing the other person.\n4. Ask questions instead of giving direct orders.\n5. Let the other person save face.\n6. Praise the slightest improvement and praise every improvement. Be “hearty in your approbation and lavish in your praise.”\n7. Give the other person a fine reputation to live up to.\n8. Use encouragement. Make the fault seem easy to correct.\n9. Make the other person happy about doing the thing you suggest.</string>
+
+    <string name="content_details_book1_8">That’s not all the book had to offer. Here are the other points Carnegie makes worth noting.</string>
+    <string name="content_details_book1_9">Criticism</string>
+    <string name="content_details_book1_10">Criticism is futile because it puts a person on the defensive and usually makes him strive to justify himself. Criticism is dangerous, because it wounds a person’s precious pride, hurts his sense of importance, and arouses resentment. …. Any fool can criticize, condemn and complain—and most fools do. But it takes character and self-control to be understanding and forgiving.That reminds me of this famous quote by Thomas Carlyle: “A great man sho</string>
+
+    <string name="content_details_book1_11">People are Emotional</string>
+    <string name="content_details_book1_12">When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudices and motivated by pride and vanity.</string>
+
+    <string name="content_details_book1_13">The Key to Influencing Others</string>
+    <string name="content_details_book1_14">[T]he only way on earth to influence other people is to talk about what they want and show them how to get it.</string>
+
+    <string name="content_details_book1_15">The Secret of Success</string>
+    <string name="content_details_book1_16">If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.</string>
+
+
+    <string name="content_details_book2" translatable="false">~Giới thiệu về Andrew Matthews – Tác giả cuốn sách~</string>
+    <string name="content_details_book2_1" translatable="false">Andrew Matthews là một họa sĩ vẽ tranh biếm họa và chân dung chuyên nghiệp. Ông là cũng một diễn thuyết viên có tài và năng động tại các hội nghị quốc tế và chương trình của ông được yêu cầu khắp nơi trên thế giới, đặc biệt ở Australia, Châu Á và Châu Âu. Ông đã từng học tại Đoàn Sinh Viên Nghệ Thuật New York và được xuất hiện hơn 3000 chương trình truyền hình và tham gia diễn thuyết tại những tập đoàn lớn như Kodak, Fujitsu, Coca Cola và Toshiba.</string>
+    <string name="content_details_book2_2" translatable="false">\     Sự thành công đó được ông đúc kết trong cuốn sách Đời thay đổi khi chúng ta thay đổi, nói về hạnh phúc và phương hướng đi tìm hạnh phúc dành cho tất cả mọi người của nhà diễn thuyết tài ba gửi gắm. Tác phẩm này  luôn nằm trong Top những cuốn sách bán chạy nhất tại Mỹ, Anh, Trung Quốc, Australia, New Zealand, Brazil, Mexico, Nga, Đức, Hungary..</string>
+    <string name="content_details_book2_3" translatable="false">\     * Đời thay đổi khi chúng ta thay đổi – Tác giả Andrew Matthews sẽ giúp các bạn tìm được “<b>HẠNH PHÚC</b>“ bất chấp rắc rối và có thể làm thay đổi cuộc đời bạn! Cuốn sách này nói về:</string>
+    <string name="content_details_book2_4" translatable="false">\    - Hiểu được bản thân \n\    - Biết khôi hài về bản thân \n\    - Trở nên suôn sẻ thuận lợi \n\    - Biết tha thứ cho bản thân</string>
+    <string name="content_details_book2_5" translatable="false">~Các bài học được đúc kết~</string>
+    <string name="content_details_book2_6" translatable="false">\    1. Tư tưởng và hành động chúng ta bắt nguồn từ cách chúng ta nhìn nhận bản thân.\n\    2. Luôn sống trong hiện tại.\n\    3. Hành động để đối mặt với sợ hãi và chờ đợi.\n\    4. Sức mạnh của nụ cười.</string>
+    <string name="content_details_book2_7" translatable="false">Đó là bốn bài học vô cùng ý nghĩa mà nội dung của cuốn sách mang lại, mỗi một bài học là những câu chuyện gần gũi, hấp dẫn và thú vị. Vì vậy, các bạn hãy trải nghiệm, khám phá nội dung trong cuốn sách này ngay nhé, để suy ngẫm và lý giải về các bài học trên một cách sâu sắc, trọn vẹn hơn.</string>
+</resources>

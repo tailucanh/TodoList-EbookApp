@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:paddingVertical="5dp"
+        android:paddingHorizontal="15dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+            <androidx.appcompat.widget.SearchView
+                android:id="@+id/search_notes"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="35dp"
+
+                android:layout_gravity="start"
+                app:iconifiedByDefault="false"
+                app:queryBackground="@null"
+                android:background="@drawable/custom_search_view_2"
+                app:queryHint="@string/title_search"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+               >
+                <ImageView
+                    android:id="@+id/ic_show_search"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/ic_search_view"
+                    android:layout_marginEnd="10dp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toStartOf="@+id/ic_change_layout_girl"/>
+                <ImageView
+                    android:id="@+id/ic_hide_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_hide_search_view"
+                    app:layout_constraintTop_toTopOf="@+id/ic_show_search"
+                    app:layout_constraintEnd_toEndOf="@+id/ic_show_search"
+                    app:layout_constraintBottom_toBottomOf="@+id/ic_show_search"/>
+
+                <ImageView
+                    android:id="@+id/ic_change_layout_linear"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/ic_change_layout_2"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"/>
+                <ImageView
+                    android:id="@+id/ic_change_layout_girl"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/ic_change_layout"
+                    app:layout_constraintTop_toTopOf="@+id/ic_change_layout_linear"
+                    app:layout_constraintEnd_toEndOf="@+id/ic_change_layout_linear"
+                    app:layout_constraintBottom_toBottomOf="@+id/ic_change_layout_linear"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/list_notes"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="10dp"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="button_start">Bắt đầu</string>
+    <string name="title_login">Đăng nhập</string>
+    <string name="title_signup">Đăng kí</string>
+    <string name="hint_input_account_1">Tài khoản của bạn</string>
+    <string name="hint_input_account_2">Tài khoản mới</string>
+    <string name="hint_input_pass">Mật khẩu</string>
+    <string name="login_content1">Bạn chưa có tài khoản ?\ </string>
+    <string name="login_content2">Đăng kí\ </string>
+    <string name="signup_content1">Tài khoản đã sẵn sàng?\ </string>
+    <string name="signup_content2">Đăng nhập\ </string>
+    <string name="signup_content3">Hoặc </string>
+
+    <string name="error_account_name">Vui lòng nhập tên tài khoản</string>
+    <string name="error_pass">Vui lòng nhập mật khẩu</string>
+    <string name="error_account_name_2">Tên tài khoản sai! Hãy nhập lại.</string>
+    <string name="error_pass_2">Mật khẩu sai! Hãy nhập lại</string>
+
+    <string name="successful_text">Đăng nhập thành công!</string>
+    <string name="successful_text_2">Đăng kí thành công!</string>
+
+    <string name="title_home">Trang chủ</string>
+    <string name="title_search">Tìm kiếm</string>
+    <string name="title_content_book">Bạn đọc gì hôm nay ?</string>
+
+
+
+    <string name="title_function_item">Chi tiết\ </string>
+    <string name="title_function_item_2">Đọc\ </string>
+
+    <string name="text_five_star">Đánh giá ngay</string>
+    <string name="text_five_star2">Hủy\ </string>
+    <string name="text_five_star3">Đồng ý\ </string>
+
+    <string name="text_upload_img">Thêm hình ảnh</string>
+    <string name="text_upload_img2">Chụp ảnh</string>
+    <string name="text_upload_img3">Chọn ảnh</string>
+
+    <string name="title_dialog_color">Màu sắc</string>
+    <string name="title_dialog_color_2">Hình nền</string>
+
+    <string name="title_note">Tiêu đề</string>
+    <string name="content_note">Nội dung</string>
+    <string name="title_note_2">Thêm ghi chú tại đây</string>
+    <string name="notification_title_note">Hãy nhập tiêu đề !!</string>
+    <string name="notification_content_note">Hãy nhập nội dung !!</string>
+    <string name="notification_confirm">Xác nhận!</string>
+    <string name="notification_confirm_2">Xác nhận lưu ghi chú.</string>
+
+
+    <string name="text_tab">\ Ghi chú\ </string>
+    <string name="text_tab_2">\ Bản vẽ\ </string>
+
+    <string name="title_button_note">Lưu ghi chú</string>
+    <string name="text_time_present">Đã chỉnh sửa lúc\ </string>
+    <string name="text_show">Xem thêm\ </string>
+    <string name="text_hide">Thu gọn\ </string>
+
+    <string name="text_function_1">Sửa nội dung</string>
+    <string name="text_function_2">Xóa ghi chú</string>
+    <string name="text_function_3">Đổi màu ghi chú</string>
+    <string name="text_function_delete_1">Xóa ghi chú?</string>
+    <string name="text_function_delete_2">Bạn có chắc muốn xóa không ?</string>
+    <string name="text_function_delete_3">Đã xóa !</string>
+    <string name="text_function_delete_4">Xóa không thành công !</string>
+    <string name="text_function_delete_5">Đã hủy !</string>
+
+    <string name="text_pressed_app">Chạm lần nữa để thoát\ </string>
+    <string name="text_title_drawing_board">Bảng vẽ\ </string>
+    <string name="text_toast">Thành công\ </string>
+    <string name="text_toast_2">Lưu thành công\ </string>
+    <string name="text_toast_3">Lưu thất bại\ </string>
+    <string name="text_title_details_1">Tóm tắt sách\ </string>
+    <string name="text_title_details_2">Mô tả sách\ </string>
+
+    <string name="title_tool_bar_details">Chi tiết sách\ </string>
+
+
+
+
+</resources>
